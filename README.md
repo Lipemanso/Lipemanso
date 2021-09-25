@@ -1,4 +1,4 @@
-### Felipe Manso, tudo bem? 👋
+### E ai, Beleza? 👋
 <a href="https://www.linkedin.com/in/lipemanso/" target="_blank">
   <img width="30" height="30" alt="felipe_linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
