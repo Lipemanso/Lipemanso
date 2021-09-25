@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/lipemanso/" target="_blank">
   <img width="30" height="30" alt="felipe_linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
-<a href="https://www.twitter.com/in/lipemansotdah/" target="_blank">
+<a href="https://www.twitter.com/lipemansotdah/" target="_blank">
   <img width="30" height="30" alt="felipe_linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
 </a>
 
