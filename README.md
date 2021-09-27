@@ -1,9 +1,9 @@
-## E ai pessoal, Beleza? 👋
+## Hi there 👋
 
 
 
 
-#### Tecnologias que uso nos projetos:
+### programming languages:
 <img  width="30" heigth="30" style="max-width 100%;" alt="hmtl5_icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></img>
 <img  width="30" heigth="30" style="max-width 100%;" alt="hmtl5_icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></img>
 <img  width="30" heigth="30" style="max-width 100%;" alt="hmtl5_icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></img>
