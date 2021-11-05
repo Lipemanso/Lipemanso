@@ -19,6 +19,10 @@
 <img  width="30" heigth="30" style="max-width 100%;" alt="hmtl5_icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></img>
 <img  width="30" heigth="30" style="max-width 100%;" alt="hmtl5_icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></img>
 
+### Learning:
+<img  width="50" heigth="50" style="max-width 100%;" alt="hmtl5_icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" ></img>
+<img  width="50" heigth="50" style="max-width 100%;" alt="hmtl5_icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" ></img>
+
 [![Lipemanso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lipemanso&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/Lipemanso/github-readme-stats)
 
 
