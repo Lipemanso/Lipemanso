@@ -1,6 +1,16 @@
 ## console.log("Felipe Manso")
-* 34 anos
-* Atualmente se dedicando a uma nova profissão.
+
+* 34 years old.
+* Currently dedicating himself to a new profession.
+* Still Learning.
+* Looking for a mentor.
+* Seeking Opportunities.
+
+## Soft skills
+
+* Good communication.
+* Leadership.
+* Always available for new challenges.
 
 ### My Stack:
 <img  width="30" heigth="30" style="max-width 100%;" alt="hmtl5_icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></img>
