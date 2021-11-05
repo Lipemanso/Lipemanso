@@ -1,18 +1,8 @@
 ## console.log("Felipe Manso")
-~~~Javascript
-Testando linha 1
-~~~
-~~~CSS
-testando linha 2
-~~~
-~~~HTML
-testando linha 3
-~~~
+* 34 anos
+* Atualmente se dedicando a uma nova profissão.
 
-
-
-
-### programming languages:
+### My Stack:
 <img  width="30" heigth="30" style="max-width 100%;" alt="hmtl5_icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></img>
 <img  width="30" heigth="30" style="max-width 100%;" alt="hmtl5_icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></img>
 <img  width="30" heigth="30" style="max-width 100%;" alt="hmtl5_icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></img>
