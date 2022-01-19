@@ -1,7 +1,7 @@
 ## console.log("Felipe Manso")
 
 * 34 years old.
-* Currently dedicating himself to a new profession.
+* Currently dedicating myself to a new profession.
 * Still Learning.
 * Looking for a mentor.
 * Seeking Opportunities.
@@ -23,7 +23,7 @@
 <img  width="50" heigth="50" style="max-width 100%;" alt="hmtl5_icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" ></img>
 <img  width="50" heigth="50" style="max-width 100%;" alt="hmtl5_icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" ></img>
 <img  width="45" heigth="45" style="max-width 100%;" alt="hmtl5_icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" ></img>
-<img  width="45" heigth="45" style="max-width 100%;" alt="hmtl5_icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" ></img>
+
 
 [![Lipemanso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lipemanso&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/Lipemanso/github-readme-stats)
 
