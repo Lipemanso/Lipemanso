@@ -9,8 +9,9 @@
 ## Soft skills
 
 * Good communication.
-* Leadership.
-* Always available for new challenges.
+* Problem Solver.
+* Analytical thinking.
+
 
 ### My Stack:
 <img  width="30" heigth="30" style="max-width 100%;" alt="hmtl5_icone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></img>
