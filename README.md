@@ -2,9 +2,9 @@
 
 * 34 years old.
 * Currently dedicating myself to a new profession.
-* Still Learning.
-* Looking for a mentor.
-* Seeking Opportunities.
+* Data analyst junior
+* Always learning.
+* Art lover
 
 ## Soft skills
 
