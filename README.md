@@ -1,6 +1,5 @@
 ## console.log("Felipe Manso")
 
-* Currently dedicating myself to a new profession.
 * Data analyst junior
 * Always learning.
 * Art lover
