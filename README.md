@@ -22,8 +22,6 @@
 <a href="https://www.twitter.com/lipemansotdah/" target="_blank">
   <img width="100" height="30" alt="felipe_linkedin" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="mailto:comunicacao@felipemanso.com.br" target="_blank">
-  <img width="100" height="30" alt="felipe_gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+
 
 
